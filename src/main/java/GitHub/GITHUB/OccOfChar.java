@@ -7,7 +7,7 @@ public class OccOfChar {
 
 	public static void main(String[] args) {
 
-		String str = "Deepa";
+		String str = "Sophia";
 
 		Map<Character, Integer> mp = new LinkedHashMap();
 
